@@ -31,7 +31,7 @@ This tool is developed for **educational purposes and authorized security testin
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Spydomain/python-bruteforce-login.git](https://github.com/Spydomain/python-bruteforce-login.git)
+    git clone https://github.com/Spydomain/python-bruteforce-login.git
     cd python-bruteforce-login
     ```
 
